@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohannad Hossam</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">A Software Engineer from Egypt</h3>
 
 - 📫 How to reach me **mohannadonly90@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
